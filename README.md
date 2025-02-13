@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### I'm Samiha Mahin 👩‍💻
+### I'm Samiha Muntaha Mahin 👩‍💻
 
 🚀 Passionate **MERN Stack Developer** | 🤖 AI/ML Enthusiast  | 🎨 Artist
 
