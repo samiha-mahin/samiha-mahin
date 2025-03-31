@@ -14,7 +14,7 @@ I’m currently working on **MERN Stack** projects, focusing on building scalabl
 
 
 - 📫 How to reach me samihamahin36@gmail.com
-- ⚡ Fun fact: Im an artist
+- ⚡ Fun fact: Im an artist🎨
 
 
 ![coding-girl](https://github.com/user-attachments/assets/c43e20a8-a080-431c-9053-0a3012739e00)
