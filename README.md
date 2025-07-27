@@ -2,7 +2,7 @@
 
 ### I'm Samiha Muntaha Mahin 👩‍💻
 
-🚀 Passionate **Full Stack Developer** | 🤖 AI/ML Enthusiast  | 🎨 Artist
+🚀 Passionate **Full Stack Developer** | 🤖 AI/ML Researcher - Deep Learning & LLM  | 🎨 Artist
 
 ---
 
