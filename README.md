@@ -1,4 +1,4 @@
-# Computer Science undergraduate researcher passionate about Artificial Intelligence, Machine Learning, and Deep Learning. My research interests lie in developing intelligent systems using computer vision, multimodal learning, and AI-driven solutions for real-world challenges.
+Computer Science undergraduate researcher passionate about Artificial Intelligence, Machine Learning, and Deep Learning. My research interests lie in developing intelligent systems using computer vision, multimodal learning, and AI-driven solutions for real-world challenges.
 
 I have experience working on deep learning research projects involving medical image analysis, disaster classification, satellite-based environmental monitoring, and explainable AI. Skilled in designing and evaluating machine learning models using frameworks such as TensorFlow, PyTorch, and modern AI architectures.
 
