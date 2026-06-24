@@ -1,20 +1,10 @@
-# Hi there! 👋
+# Computer Science undergraduate researcher passionate about Artificial Intelligence, Machine Learning, and Deep Learning. My research interests lie in developing intelligent systems using computer vision, multimodal learning, and AI-driven solutions for real-world challenges.
 
-### I'm Samiha Muntaha Mahin 👩‍💻
+I have experience working on deep learning research projects involving medical image analysis, disaster classification, satellite-based environmental monitoring, and explainable AI. Skilled in designing and evaluating machine learning models using frameworks such as TensorFlow, PyTorch, and modern AI architectures.
 
-🚀 Passionate **Full Stack Developer** | 🤖 AI/ML Researcher - Deep Learning & LLM  | 🎨 Artist
+Currently exploring advanced topics in AI, including multimodal fusion, Large Language Models (LLMs), self-supervised learning, and agentic AI. Interested in contributing to impactful research and building innovative AI systems that bridge the gap between theoretical advancements and practical applications.
 
----
-
-## 🚀 About Me
-I’m currently working on **Full Stack** projects, focusing on building scalable and dynamic web applications. My journey in web development started with a love for design and interactivity, which has grown into full-fledged development skills. Alongside my web dev journey, I'm also deeply fascinated by **Machine Learning & AI**, and I aim to integrate AI capabilities into web applications.
-
-
-✨ Always excited to learn, build, and collaborate on innovative web and AI projects! Let’s create something amazing. 
-
-
-- 📫 How to reach me samihamahin36@gmail.com
-- ⚡ Fun fact: Im an artist🎨👩🏻‍🎨
+Alongside my research journey, I am a fine art artist, which allows me to bring creativity and a unique perspective into scientific problem-solving.
 
 
 ![coding-girl](https://github.com/user-attachments/assets/c43e20a8-a080-431c-9053-0a3012739e00)
